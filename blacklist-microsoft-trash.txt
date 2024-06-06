@@ -1,447 +1,284 @@
-# original list https://codeberg.org/wh0ami/pihole-lists/src/branch/main/blacklist-microsoft.txt
-# microsoft.com
-0.0.0.0 aad.cs.dds.microsoft.com
-0.0.0.0 browser.pipe.aria.microsoft.com
-0.0.0.0 checkappexec.microsoft.com
-0.0.0.0 definitionupdates.microsoft.com
-0.0.0.0 dmd.metaservices.microsoft.com
-0.0.0.0 edge.microsoft.com
-0.0.0.0 europe.cp.wd.microsoft.com
-0.0.0.0 europe.sgrm.microsoft.com
-0.0.0.0 europe.smartscreen-prod.microsoft.com
-0.0.0.0 europe.smartscreen.microsoft.com
-0.0.0.0 fs.microsoft.com
-0.0.0.0 go.microsoft.com
-0.0.0.0 graph.microsoft.com
-0.0.0.0 msedge.api.cdp.microsoft.com
-0.0.0.0 microsoft.com
-0.0.0.0 officecdn.microsoft.com
-0.0.0.0 officeclient.microsoft.com
-0.0.0.0 ocps.manage.microsoft.com
-0.0.0.0 winatp-gw-neu.microsoft.com
-0.0.0.0 www.microsoft.com
-
-
-# mp.microsoft.com
-0.0.0.0 cp601.prod.do.dsp.mp.microsoft.com
-0.0.0.0 displaycatalog.mp.microsoft.com
-0.0.0.0 dl.delivery.mp.microsoft.com
-0.0.0.0 geover.prod.do.dsp.mp.microsoft.com
-0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
-0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
-0.0.0.0 licensing.mp.microsoft.com
-0.0.0.0 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
-0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
-0.0.0.0 msedge.f.dl.delivery.mp.microsoft.com
-0.0.0.0 storeedgefd.dsx.mp.microsoft.com
-0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
-
-# data.microsoft.com
-0.0.0.0 eu-v20.events.data.microsoft.com
-0.0.0.0 ic3.events.data.microsoft.com
-0.0.0.0 self.events.data.microsoft.com
-0.0.0.0 teams.events.data.microsoft.com
-0.0.0.0 v20.events.data.microsoft.com
-
-# teams.microsoft.com
-0.0.0.0 api.flightproxy.teams.microsoft.com
-0.0.0.0 config.teams.microsoft.com
-0.0.0.0 emea.ng.msg.teams.microsoft.com
-0.0.0.0 euaz.tr.teams.microsoft.com
-0.0.0.0 eu-prod.asyncgw.teams.microsoft.com
-0.0.0.0 go.trouter.teams.microsoft.com
-0.0.0.0 northeurope-prod-4.notifications.teams.microsoft.com
-0.0.0.0 presence.teams.microsoft.com
-0.0.0.0 teams.microsoft.com
-0.0.0.0 trouter2-azsc-ukwe-2-b.trouter.teams.microsoft.com
-0.0.0.0 westeurope-prod-3.notifications.teams.microsoft.com
-0.0.0.0 worldaz.tr.teams.microsoft.com
-
-# microsoftonline.com
-0.0.0.0 login.microsoftonline.com
-0.0.0.0 microsoftonline.com
-0.0.0.0 www.microsoftonline.com
-
-# trafficmanager.net
-0.0.0.0 devicemetadataservice.trafficmanager.net
-0.0.0.0 presence.services.sfb.trafficmanager.net
-0.0.0.0 settings-win.data.microsoft.com
-0.0.0.0 self.events.data.microsoft.com
-0.0.0.0 trafficmanager.net
-0.0.0.0 www.trafficmanager.net
-
-# live.com
-0.0.0.0 g.live.com
-0.0.0.0 live.com
-0.0.0.0 login.live.com
-0.0.0.0 onedrive.live.com
-0.0.0.0 storage.live.com
-0.0.0.0 www.live.com
-
-# officeapps.live.com
-0.0.0.0 cdn.uci.officeapps.live.com
-0.0.0.0 config.officeapps.live.com
-0.0.0.0 emea.pptservicescast.officeapps.live.com
-0.0.0.0 mrodevicemgr.officeapps.live.com
-0.0.0.0 nexusrules.officeapps.live.com
-0.0.0.0 ocws.officeapps.live.com
-0.0.0.0 odc.officeapps.live.com
-0.0.0.0 ols.officeapps.live.com
-0.0.0.0 roaming.officeapps.live.com
-0.0.0.0 waconafd.officeapps.live.com
-0.0.0.0 waconatm.officeapps.live.com
-
-# virtualearth.net
-0.0.0.0 dev.virtualearth.net
-0.0.0.0 ecn.dev.virtualearth.net
-0.0.0.0 virtualearth.net
-0.0.0.0 www.virtualearth.net
-
-# skype.com
-0.0.0.0 api3.cc.skype.com
-0.0.0.0 api.teams.skype.com
-0.0.0.0 api.userstore.skype.com
-0.0.0.0 config.edge.skype.com
-0.0.0.0 eu-api.asm.skype.com
-0.0.0.0 img.teams.skype.com
-0.0.0.0 skype.com
-0.0.0.0 www.skype.com
-
-# msn.com
-0.0.0.0 api.msn.com
-0.0.0.0 arc.msn.com
-0.0.0.0 assets.msn.com
-0.0.0.0 ent-api.msn.com
-0.0.0.0 msn.com
-0.0.0.0 ntp.msn.com
-0.0.0.0 www.msn.com
-
-# office.com
-0.0.0.0 33225ee601d94b58adee638a9354d687.fp.measure.office.com
-0.0.0.0 3351fd3db7534f07ac41d02a02e84b6c.fp.measure.office.com
-0.0.0.0 3f4b07974539406db164a92fb863b694.fp.measure.office.com
-0.0.0.0 83421a10ac514afc8b605052b0fcf85e.fp.measure.office.com
-0.0.0.0 866be62325854c48aada80a0bfd5fa91.fp.measure.office.com
-0.0.0.0 8ebc92499b9a4bdea15652eae16b8679.fp.measure.office.com
-0.0.0.0 a2409e37d12e4be880092797776a6907.fp.measure.office.com
-0.0.0.0 a43e21fc257b4919bf62fcda6f1b4033.fp.measure.office.com
-0.0.0.0 d5eaa4b0b5ef4e2e9cd0d0dbd43f5acb.fp.measure.office.com
-0.0.0.0 edc0a753366b4557a8ae77b2cb736ee6.fp.measure.office.com
-0.0.0.0 acdc-direct.office.com
-0.0.0.0 api.diagnostics.office.com
-0.0.0.0 atm-fp-direct.office.com
-0.0.0.0 ecs.office.com
-0.0.0.0 loki.delve.office.com
-0.0.0.0 lpcres.delve.office.com
-0.0.0.0 outlook.office.com
-0.0.0.0 office.com
-0.0.0.0 upload.fp.measure.office.com
-0.0.0.0 upload2.fp.measure.office.com
-0.0.0.0 sfeur.loki.delve.office.com
-0.0.0.0 substrate.office.com
-0.0.0.0 webshell.suite.office.com
-0.0.0.0 www.office.com
-
-# office.net
-0.0.0.0 api.office.net
-0.0.0.0 clients.config.office.net
-0.0.0.0 cxcs.cdn.office.net
-0.0.0.0 office.net
-0.0.0.0 statics.teams.cdn.office.net
-0.0.0.0 support.content.office.net
-0.0.0.0 teams.nel.measure.office.net
-0.0.0.0 www.office.net
-
-# office365.com
-0.0.0.0 office365.com
-0.0.0.0 outlook.office365.com
-0.0.0.0 ow1.res.office365.com
-0.0.0.0 r4.res.office365.com
-0.0.0.0 www.office365.com
-
-# outlook.com
-0.0.0.0 dataservice.protection.outlook.com
-0.0.0.0 eur03.dataservice.protection.outlook.com
-0.0.0.0 outlook.com
-0.0.0.0 r3.res.outlook.com
-0.0.0.0 www.outlook.com
-
-# msedge.net
-0.0.0.0 internetbeacon.msedge.net
-0.0.0.0 fp.msedge.net
-0.0.0.0 fpc.msedge.net
-0.0.0.0 msedge.net
-0.0.0.0 spo-ring.msedge.net
-0.0.0.0 www.msedge.net
-
-# e-msedge.net
-0.0.0.0 e-0012.e-msedge.net
-0.0.0.0 e-msedge.net
-0.0.0.0 www.e-msedge.net
-0.0.0.0 www-xboxab-com.e-0012.e-msedge.net
-
-# bing.com
-0.0.0.0 bing.com
-0.0.0.0 business.bing.com
-0.0.0.0 c.bing.com
-0.0.0.0 www.bing.com
-
-# windows.com
-0.0.0.0 client.wns.windows.com
-0.0.0.0 edge.activity.windows.com
-0.0.0.0 skydrive.wns.windows.com
-0.0.0.0 time.windows.com
-0.0.0.0 windows.com
-0.0.0.0 wns.windows.com
-0.0.0.0 www.windows.com
-
-# akamaized.net
-0.0.0.0 img-prod-cms-rt-microsoft-com.akamaized.net
-0.0.0.0 img-s-msn-com.akamaized.net
-
-# msftncsi.com
-0.0.0.0 dns.msftncsi.com
-0.0.0.0 msftncsi.com
-0.0.0.0 www.msftncsi.com
-
-# msftconnecttest.com
-0.0.0.0 ipv6.msftconnecttest.com
-0.0.0.0 msftconnecttest.com
-0.0.0.0 www.msftconnecttest.com
-
-# azureedge.net
-0.0.0.0 acctcdnmsftuswe2.azureedge.net
-0.0.0.0 acctcdnvzeuno.azureedge.net
-0.0.0.0 azureedge.net
-0.0.0.0 cloud-bibo-verizon-clsprd-eun.azureedge.net
-0.0.0.0 lgincdnmsftuswe2.azureedge.net
-0.0.0.0 lgincdnvzeuno.azureedge.net
-0.0.0.0 www.azureedge.net
-
-# msftauth.net
-0.0.0.0 acctcdn.msftauth.net
-0.0.0.0 msftauth.net
-0.0.0.0 www.msftauth.net
-
-# s-microsoft.com
-0.0.0.0 c.s-microsoft.com
-0.0.0.0 s-microsoft.com
-0.0.0.0 www.s-microsoft.com
-
-# sharepoint.com
-0.0.0.0 19918-ipv4.gr.global.aa-rt.sharepoint.com
-0.0.0.0 dbsw.sharepoint.com
-0.0.0.0 dbsw-my.sharepoint.com
-0.0.0.0 sharepoint.com
-0.0.0.0 www.sharepoint.com
-
-# windows.net
-0.0.0.0 login.windows.net
-0.0.0.0 onedriveclubprodbn20029.blob.core.windows.net
-0.0.0.0 windows.net
-0.0.0.0 www.windows.net
-
-# nsatc.net
-0.0.0.0 nsatc.net
-0.0.0.0 www.nsatc.net
-
-# xboxab.com
-0.0.0.0 www.xboxab.com
-0.0.0.0 xboxab.com
-
-# xboxlive.com
-0.0.0.0 www.xboxlive.com
-0.0.0.0 xboxlive.com
-0.0.0.0 userpresence.xboxlive.com
-
-# appcenter.ms
-0.0.0.0 appcenter.ms
-0.0.0.0 in.appcenter.ms
-0.0.0.0 www.appcenter.ms
-
-# azure.com
-0.0.0.0 azure.com
-0.0.0.0 northeuropecns-prod-4-16.northeurope.cloudapp.azure.com
-0.0.0.0 www.azure.com
-
-# cloudapp.net
-0.0.0.0 cloudapp.net
-0.0.0.0 weu1-api-skype.cloudapp.net
-0.0.0.0 weu1-api-teams.cloudapp.net
-0.0.0.0 www.cloudapp.net
-
-# akadns.net
-0.0.0.0 userpresence.xboxlive.com.akadns
-
-# edgesuite.net
-0.0.0.0 officecdn.microsoft.com.edgesuite.net
-
-
-0.0.0.0 a-0001.a-msedge.net
-0.0.0.0 a-0002.a-msedge.net
-0.0.0.0 a-0003.a-msedge.net
-0.0.0.0 a-0004.a-msedge.net
-0.0.0.0 a-0005.a-msedge.net
-0.0.0.0 a-0006.a-msedge.net
-0.0.0.0 a-0007.a-msedge.net
-0.0.0.0 a-0008.a-msedge.net
-0.0.0.0 a-0009.a-msedge.net
-0.0.0.0 a1621.g.akamai.net
-0.0.0.0 a1856.g2.akamai.net
-0.0.0.0 a1961.g.akamai.net
-0.0.0.0 a978.i6g1.akamai.net
-0.0.0.0 a.ads1.msn.com
-0.0.0.0 a.ads2.msads.net
-0.0.0.0 a.ads2.msn.com
-0.0.0.0 ac3.msn.com
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 adnexus.net
-0.0.0.0 adnxs.com
-0.0.0.0 ads1.msads.net
-0.0.0.0 ads.msn.com
-0.0.0.0 aidps.atdmt.com
-0.0.0.0 aka-cdn-ns.adtech.de
-0.0.0.0 any.edge.bing.com
-0.0.0.0 a.rad.msn.com
-az361816.vo.msecnd.net
-az512334.vo.msecnd.net
-b.ads1.msn.com
-b.ads2.msads.net
-bingads.microsoft.com
-b.rad.msn.com
-bs.serving-sys.com
-c.atdmt.com
-cdn.atdmt.com
-cds26.ams9.msecn.net
-choice.microsoft.com
-choice.microsoft.com.nsatc.net
-compatexchange.cloudapp.net
-corpext.msitadfs.glbdns2.microsoft.com
-corp.sts.microsoft.com
-cs1.wpc.v0cdn.net
-db3aqu.atdmt.com
-df.telemetry.microsoft.com
-diagnostics.support.microsoft.com
-e2835.dspb.akamaiedge.net
-e7341.g.akamaiedge.net
-e7502.ce.akamaiedge.net
-e8218.ce.akamaiedge.net
-ec.atdmt.com
-fe2.update.microsoft.com.akadns.net
-feedback.microsoft-hohm.com
-feedback.search.microsoft.com
-feedback.windows.com
-flex.msn.com
-g.msn.com
-h1.msn.com
-h2.msn.com
-hostedocsp.globalsign.com
-i1.services.social.microsoft.com
-i1.services.social.microsoft.com.nsatc.net
-lb1.www.ms.akadns.net
-live.rads.msn.com
-m.adnxs.com
-msnbot-65-55-108-23.search.msn.com
-msntest.serving-sys.com
-oca.telemetry.microsoft.com
-oca.telemetry.microsoft.com.nsatc.net
-onesettings-db5.metron.live.nsatc.net
-pre.footprintpredict.com
-preview.msn.com
-rad.live.com
-redir.metaservices.microsoft.com
-reports.wes.df.telemetry.microsoft.com
-schemas.microsoft.akadns.net
-secure.adnxs.com
-secure.flashtalking.com
-services.wes.df.telemetry.microsoft.com
-settings-sandbox.data.microsoft.com
-settings-win.data.microsoft.com
-sls.update.microsoft.com.akadns.net
-sls.update.microsoft.com.nsatc.net
-sqm.df.telemetry.microsoft.com
-sqm.telemetry.microsoft.com
-sqm.telemetry.microsoft.com.nsatc.net
-ssw.live.com
-static.2mdn.net
-statsfe1.ws.microsoft.com
-statsfe2.update.microsoft.com.akadns.net
-statsfe2.ws.microsoft.com
-survey.watson.microsoft.com
-telecommand.telemetry.microsoft.com
-telecommand.telemetry.microsoft.com.nsatc.net
-telemetry.appex.bing.net
-telemetry.urs.microsoft.com
-vortex-bn2.metron.live.com.nsatc.net
-vortex-cy2.metron.live.com.nsatc.net
-vortex.data.microsoft.com
-vortex-sandbox.data.microsoft.com
-vortex-win.data.microsoft.com
-cy2.vortex.data.microsoft.com.akadns.net
-watson.live.com
-watson.ppe.telemetry.microsoft.com
-watson.telemetry.microsoft.com
-watson.telemetry.microsoft.com.nsatc.net
-win10.ipv6.microsoft.com
-www.bingads.microsoft.com
-www.go.microsoft.akadns.net
-client.wns.windows.com
-wdcp.microsoft.com
-wdcpalt.microsoft.com
-settings-ssl.xboxlive.com
-settings-ssl.xboxlive.com-c.edgekey.net
-settings-ssl.xboxlive.com-c.edgekey.net.globalredir.akadns.net
-e87.dspb.akamaidege.net
-insiderservice.microsoft.com
-insiderservice.trafficmanager.net
-e3843.g.akamaiedge.net
-flightingserviceweurope.cloudapp.net
-static.ads-twitter.com
-www-google-analytics.l.google.com
-p.static.ads-twitter.com
-hubspot.net.edge.net
-e9483.a.akamaiedge.net
-stats.g.doubleclick.net
-stats.l.doubleclick.net
-adservice.google.de
-adservice.google.com
-googleads.g.doubleclick.net
-pagead46.l.doubleclick.net
-hubspot.net.edgekey.net
-insiderppe.cloudapp.net
-livetileedge.dsx.mp.microsoft.com
-s0.2mdn.net
-view.atdmt.com
-geo.settings-win.data.microsoft.com.akadns.net
-0.0.0.0 db5-eap.settings-win.data.microsoft.com.akadns.net
-0.0.0.0 settings-win.data.microsoft.com
-0.0.0.0 db5.settings-win.data.microsoft.com.akadns.net
-0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
-0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
-0.0.0.0 v10-win.vortex.data.microsoft.com.akadns.net
-0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
-0.0.0.0 v10.vortex-win.data.microsoft.com
-0.0.0.0 v10.events.data.microsoft.com
-0.0.0.0 v20.events.data.microsoft.com
-0.0.0.0 us.vortex-win.data.microsoft.com
-0.0.0.0 eu.vortex-win.data.microsoft.com
-0.0.0.0 vortex-win-sandbox.data.microsoft.com
-0.0.0.0 alpha.telemetry.microsoft.com
-0.0.0.0 oca.telemetry.microsoft.com
-0.0.0.0 ceuswatcab01.blob.core.windows.net
-0.0.0.0 ceuswatcab02.blob.core.windows.net
-0.0.0.0 eaus2watcab01.blob.core.windows.net
-0.0.0.0 eaus2watcab02.blob.core.windows.net
-0.0.0.0 weus2watcab01.blob.core.windows.net
-0.0.0.0 weus2watcab02.blob.core.windows.net 
-
-
+# Google
+0.0.0.0 google-analytics.de
+0.0.0.0 connectivitycheck.android.com
+0.0.0.0 dns.google
+0.0.0.0 fonts.gstatic.com
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 developers.google.cn
+0.0.0.0 optimizationguide-pa.googleapis.com
+0.0.0.0 android-safebrowsing.google.com
+0.0.0.0 content-autofill.googleapis.com
+0.0.0.0 userlocation.googleapis.com
+0.0.0.0 locationhistory-pa.googleapis.com
+0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 growth-pa.googleapis.com
+0.0.0.0 firebase-settings.crashlytics.com
+# Algolia
+0.0.0.0 6dgzimlh49-1.algolianet.com
+0.0.0.0 6dgzimlh49-2.algolianet.com
+0.0.0.0 6dgzimlh49-3.algolianet.com
+0.0.0.0 6dgzimlh49-dsn.algolia.net
+0.0.0.0 d49-de-2.algolianet.com
+0.0.0.0 8ys7j0y0h2-2.algolianet.com
+# Teamspeak
+0.0.0.0 ts3services.teamspeak.com
+0.0.0.0 weblist.teamspeak.com
+0.0.0.0 clientapi.myteamspeak.com
+0.0.0.0 blacklist2.teamspeak.com
+0.0.0.0 badges-content.teamspeak.com
+0.0.0.0 news.teamspeak.com
+0.0.0.0 www.myteamspeak.com
+# InfluxDB
+0.0.0.0 usage.influxdata.com
+# NVIDIA
+0.0.0.0 events.gfe.nvidia.com
+0.0.0.0 nvidia.tt.omtrdc.net
+0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 static.nvidiagrid.net
+0.0.0.0 lightstep.kaizen.nvidia.com
+0.0.0.0 ls.dtrace.nvidia.com
+# Intel
+0.0.0.0 gameplayapi.intel.com
+0.0.0.0 gameplay.intel.com
+# Samsung
+0.0.0.0 capi.samsungcloud.com
+0.0.0.0 dc.dqa.samsung.com
+0.0.0.0 de-odc.samsungapps.com
+0.0.0.0 dls-udc.dqa.samsung.com
+0.0.0.0 sspapi-prd.samsungrs.com
+0.0.0.0 sdk.pushmessage.samsung.com
+0.0.0.0 dls.di.atlas.samsung.com
+0.0.0.0 vas.samsungapps.com
+# Mozilla
+0.0.0.0 accounts.firefox.com
+0.0.0.0 accounts-static-cdn.mozilla.net
+0.0.0.0 api.accounts.firefox.com
+0.0.0.0 basket.mozilla.org
+0.0.0.0 content-signature-2.cdn.mozilla.net
+0.0.0.0 detectportal.firefox.com
+0.0.0.0 firefox.settings.services.mozilla.com
+0.0.0.0 firefoxusercontent.com
+0.0.0.0 getpocket.cdn.mozilla.net
+0.0.0.0 graphql.accounts.firefox.com
+0.0.0.0 hubs.mozilla.com
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 mitmdetection.services.mozilla.com
+0.0.0.0 monitor.cdn.mozilla.net
+0.0.0.0 monitor.firefox.com
+0.0.0.0 oauth.accounts.firefox.com
+0.0.0.0 profile.accounts.firefox.com
+0.0.0.0 push.services.mozilla.com
+0.0.0.0 relay.firefox.com
+0.0.0.0 s.mzstatic.com
+0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 spocs.getpocket.com
+0.0.0.0 static-media-prod-cdn.itsre-sumo.mozilla.net
+0.0.0.0 sync-1-us-west1-g.sync.services.mozilla.com
+0.0.0.0 thunderbird-settings.thunderbird.net
+0.0.0.0 token.services.mozilla.com
+0.0.0.0 token.r53-2.services.mozilla.com
+0.0.0.0 user-media-prod-cdn.itsre-sumo.mozilla.net
+0.0.0.0 location.services.mozilla.com
+# Minecraft
+0.0.0.0 s.optifine.net
+0.0.0.0 realms-java-production.eastus2.cloudapp.azure.com
+0.0.0.0 pc.realms.minecraft.net
+0.0.0.0 optifine.net
+# Vodafone
+0.0.0.0 netperform-lz.vodafone.com
+0.0.0.0 beta.vodafone.de
+# Facebook
+0.0.0.0 www.fb-analytics.com
+# Jodel
+0.0.0.0 analytics.jodelapis.com
+# Strangeloopgames
+0.0.0.0 bugreports.eco.strangeloopgames.com
+0.0.0.0 us.relay.strangeloopgames.com
+# Xiaomi / Huawei
+0.0.0.0 fr.app.chat.global.xiaomi.net
+0.0.0.0 dnkeeper.hicloud.com
+0.0.0.0 api.cloud.huawei.com
+0.0.0.0 configserver-drex.platform.hicloud.com
+0.0.0.0 hwid.platform.hicloud.com
+0.0.0.0 connect-drcn.hispace.hicloud.com
+0.0.0.0 events-dre.op.hicloud.com
+0.0.0.0 query.hicloud.com
+0.0.0.0 pushtrs1.push.hicloud.com
+0.0.0.0 pushtrs2.push.hicloud.com
+0.0.0.0 pushtrs3.push.hicloud.com
+0.0.0.0 pushtrs4.push.hicloud.com
+0.0.0.0 pushtrs5.push.hicloud.com
+0.0.0.0 pushtrs6.push.hicloud.com
+0.0.0.0 pushtrs7.push.hicloud.com
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 appdlc-dre.hispace.dbankcloud.cn
+0.0.0.0 events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn
+0.0.0.0 tsms-dre.security.dbankcloud.cn
+0.0.0.0 grs.dbankcloud.asia
+0.0.0.0 grs.dbankcloud.com
+0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 grs.dbankcloud.eu
+0.0.0.0 grs.platform.dbankcloud.ru
+0.0.0.0 openlocation-dre.platform.dbankcloud.com
+0.0.0.0 dnkeeper.platform.dbankcloud.com
+0.0.0.0 dnkeeper.platform.dbankcloud.cn
+0.0.0.0 appdlc-dre.hispace.dbankcloud.com
+0.0.0.0 connect-dre.dbankcloud.cn
+0.0.0.0 connect-dre.hispace.hicloud.com
+0.0.0.0 sdkserver-dre.op.dbankcloud.com
+0.0.0.0 sdkserver-dre.op.hicloud.com.edgekey.net
+0.0.0.0 store-dre.hispace.dbankcloud.com
+0.0.0.0 store-dre.hispace.dbankcloud.cn
+0.0.0.0 amppic-dre.dbankcdn.com
+0.0.0.0 appdl-1-drcn.dbankcdn.com
+0.0.0.0 appdl-1-dre.dbankcdn.com
+0.0.0.0 appdl-3-drcn.dbankcdn.com
+0.0.0.0 appdl-2-dre.dbankcdn.com
+0.0.0.0 appdl-3-dre.dbankcdn.com
+0.0.0.0 appdl-4-drcn.dbankcdn.com
+0.0.0.0 appdl-4-dre.dbankcdn.com
+0.0.0.0 appdl-5-drcn.dbankcdn.com
+0.0.0.0 appdl-5-dre.dbankcdn.com
+0.0.0.0 appdl-6-drcn.dbankcdn.com
+0.0.0.0 appdl-6-dre.dbankcdn.com
+0.0.0.0 appdl-7-drcn.dbankcdn.com
+0.0.0.0 appdl-7-dre.dbankcdn.com
+0.0.0.0 appdl-8-drcn.dbankcdn.com
+0.0.0.0 appdl-8-dre.dbankcdn.com
+0.0.0.0 appdl-9-drcn.dbankcdn.com
+0.0.0.0 appdl-9-dre.dbankcdn.com
+0.0.0.0 appdl-10-drcn.dbankcdn.com
+0.0.0.0 appdl-10-dre.dbankcdn.com
+0.0.0.0 appdl-11-drcn.dbankcdn.com
+0.0.0.0 appdl-11-dre.dbankcdn.com
+0.0.0.0 appdl-12-drcn.dbankcdn.com
+0.0.0.0 appdl-12-dre.dbankcdn.com
+0.0.0.0 appdl-13-drcn.dbankcdn.com
+0.0.0.0 appdl-13-dre.dbankcdn.com
+0.0.0.0 update.dbankcdn.com
+0.0.0.0 appdl-1-dre.dbankcdn.com.c.cdnhwc1.com
+0.0.0.0 appdl-1-drcn.dbankcdn.com.c.cdnhwc1.com
+0.0.0.0 cs02-pps-drcn.dbankcdn.com.c.cdnhwc1.com
+0.0.0.0 metrics-dre.dt.dbankcloud.cn
+0.0.0.0 events-dre.op.hicloud.com.edgekey.net
+0.0.0.0 h5hosting.dbankcdn.com
+0.0.0.0 pushtrs7.push.dbankcloud.cn
+# Hmsairship
+0.0.0.0 device-api.hmsairship.com
+0.0.0.0 remote-data.hmsairship.com
+# Qobuz
+0.0.0.0 ws-eu.pusher.com
+0.0.0.0 sockjs-eu.pusher.com
+0.0.0.0 stats.pusher.com
+# Avast
+0.0.0.0 shepherd.sb.avast.com
+0.0.0.0 auth.ff.avast.com
+0.0.0.0 streamback.ff.avast.com
+0.0.0.0 ccleaner.tools.avcdn.net
+0.0.0.0 emupdate.avcdn.net
+0.0.0.0 analytics.ff.avast.com
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ncc.avast.com
+# Usercentrics
+0.0.0.0 aggregator.service.usercentrics.eu
+0.0.0.0 api.usercentrics.eu
+0.0.0.0 app.usercentrics.eu
+# Appwork
+0.0.0.0 stats.appwork.org
+0.0.0.0 payments.appwork.org
+0.0.0.0 update.appwork.org
+0.0.0.0 cdn1.appwork.org
+0.0.0.0 cdn2.appwork.org
+0.0.0.0 cdn3.appwork.org
+0.0.0.0 cdn4.appwork.org
+0.0.0.0 cdn5.appwork.org
+0.0.0.0 cdn6.appwork.org
+0.0.0.0 cdn7.appwork.org
+0.0.0.0 cdn8.appwork.org
+0.0.0.0 cdn9.appwork.org
+0.0.0.0 cdn10.appwork.org
+0.0.0.0 cdn11.appwork.org
+0.0.0.0 cdn12.appwork.org
+# TikTok
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 vm.tiktok.com
+0.0.0.0 v39-eu.tiktokcdn.com
+0.0.0.0 p19-sign.tiktokcdn-us.com
+0.0.0.0 p16-sign.tiktokcdn-us.com
+0.0.0.0 p16-sign-va.tiktokcdn.com
+0.0.0.0 p77-sign-va-lite.tiktokcdn.com
+0.0.0.0 p77-va.tiktokcdn.com
+0.0.0.0 mssdk-va.tiktok.com
+0.0.0.0 v16-web-newkey.tiktokcdn.com
+0.0.0.0 lf16-tiktok-common.ibytedtos.com
+0.0.0.0 lf16-tiktok-web.ttwstatic.com
+0.0.0.0 lf16-tiktok-common.ttwstatic.com
+0.0.0.0 vmweb-va.byteoversea.com
+0.0.0.0 sf16-website-login.neutral.ttwstatic.com
+# Mediatek
+0.0.0.0 mepodownload.mediatek.com
+# Other stuff (without direct context)
+0.0.0.0 analytics.ovh.com
+0.0.0.0 analytics.srvnw.com
+0.0.0.0 bkpn.adj.st
+0.0.0.0 cdnapi.kaltura.com
+0.0.0.0 diply.com
+0.0.0.0 frys.com
+0.0.0.0 hurrifyme.com
+0.0.0.0 img.onesignal.com
+0.0.0.0 macys.com
+0.0.0.0 www.owoncn.com
+0.0.0.0 globalupload.io
+0.0.0.0 gateway.pinata.cloud
+0.0.0.0 ledger.bt.co
+0.0.0.0 zdf-de-mediathek.com
+0.0.0.0 app-metrics.pr0gramm.com
+0.0.0.0 gos-api.gos-gsp.io
+0.0.0.0 cdn.privacy-mgmt.com
+0.0.0.0 affiliate.vitaminum.net
+0.0.0.0 g.themoneytizer.net
+0.0.0.0 pix.hyj.mobi
+0.0.0.0 www.windowssearch-exp.com
+0.0.0.0 whatismyip.com
+0.0.0.0 provithor.com
+0.0.0.0 robby.prodara.de
+0.0.0.0 static.parastorage.com
+0.0.0.0 j-k-fischer-verlag.de
+0.0.0.0 www.j-k-fischer-verlag.de
+0.0.0.0 www.krisenfrei.de
+0.0.0.0 app.launchdarkly.com
+0.0.0.0 recs-personalization-us-2.goacoustic.com
+0.0.0.0 cdn-personalization-us-2.goacoustic.com
+0.0.0.0 signavatar.com
+0.0.0.0 www.whatismyip.com
+0.0.0.0 cbdwelt.de
+0.0.0.0 discordapp.com
+0.0.0.0 spiele-server.eu
+0.0.0.0 ib.isappcloud.com
+0.0.0.0 ape-androids.isappcloud.com
+0.0.0.0 fota-cloud-dn.ospserver.net
+0.0.0.0 epdg.epc.mnc002.mcc262.pub.3gppnetwork.org
+0.0.0.0 pw.tagesereignis.de
+0.0.0.0 decision-api.flagship.io
+0.0.0.0 deff.nelreports.net
+0.0.0.0 bibo.api.swiftkey.com
+0.0.0.0 jenson.api.swiftkey.com
+0.0.0.0 api-swype.swypeconnect.com
+0.0.0.0 armmf.adobe.com
+0.0.0.0 app.getreplybox.com
+0.0.0.0 cdn.getreplybox.com
+0.0.0.0 dbsystel-engine-1.eu.nexthink.cloud
+0.0.0.0 creatives.goaffpro.com
+0.0.0.0 kopp-medien.websale.net
+0.0.0.0 motd.ubuntu.com
 ### WindowsSpyBlocker - Hosts spy rules
 ### License: MIT
 ### Updated: 2022-05-16T13:25:00Z02:12
 ### Donate: https://github.com/sponsors/crazy-max ; https://www.paypal.me/crazyws
 ### More info: https://github.com/crazy-max/WindowsSpyBlocker
-
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
 0.0.0.0 37bvsblobprodcus311.blob.core.windows.net
 0.0.0.0 a.ads1.msn.com
