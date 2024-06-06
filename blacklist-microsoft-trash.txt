@@ -1,0 +1,277 @@
+# original list https://codeberg.org/wh0ami/pihole-lists/src/branch/main/blacklist-microsoft.txt
+# microsoft.com
+0.0.0.0 aad.cs.dds.microsoft.com
+0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 checkappexec.microsoft.com
+0.0.0.0 definitionupdates.microsoft.com
+0.0.0.0 dmd.metaservices.microsoft.com
+0.0.0.0 edge.microsoft.com
+0.0.0.0 europe.cp.wd.microsoft.com
+0.0.0.0 europe.sgrm.microsoft.com
+0.0.0.0 europe.smartscreen-prod.microsoft.com
+0.0.0.0 europe.smartscreen.microsoft.com
+0.0.0.0 fs.microsoft.com
+0.0.0.0 go.microsoft.com
+0.0.0.0 graph.microsoft.com
+0.0.0.0 msedge.api.cdp.microsoft.com
+0.0.0.0 microsoft.com
+0.0.0.0 officecdn.microsoft.com
+0.0.0.0 officeclient.microsoft.com
+0.0.0.0 ocps.manage.microsoft.com
+0.0.0.0 winatp-gw-neu.microsoft.com
+0.0.0.0 www.microsoft.com
+
+
+# mp.microsoft.com
+0.0.0.0 cp601.prod.do.dsp.mp.microsoft.com
+0.0.0.0 displaycatalog.mp.microsoft.com
+0.0.0.0 dl.delivery.mp.microsoft.com
+0.0.0.0 geover.prod.do.dsp.mp.microsoft.com
+0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
+0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
+0.0.0.0 licensing.mp.microsoft.com
+0.0.0.0 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 msedge.f.dl.delivery.mp.microsoft.com
+0.0.0.0 storeedgefd.dsx.mp.microsoft.com
+0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
+
+# data.microsoft.com
+0.0.0.0 eu-v20.events.data.microsoft.com
+0.0.0.0 ic3.events.data.microsoft.com
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 teams.events.data.microsoft.com
+0.0.0.0 v20.events.data.microsoft.com
+
+# teams.microsoft.com
+0.0.0.0 api.flightproxy.teams.microsoft.com
+0.0.0.0 config.teams.microsoft.com
+0.0.0.0 emea.ng.msg.teams.microsoft.com
+0.0.0.0 euaz.tr.teams.microsoft.com
+0.0.0.0 eu-prod.asyncgw.teams.microsoft.com
+0.0.0.0 go.trouter.teams.microsoft.com
+0.0.0.0 northeurope-prod-4.notifications.teams.microsoft.com
+0.0.0.0 presence.teams.microsoft.com
+0.0.0.0 teams.microsoft.com
+0.0.0.0 trouter2-azsc-ukwe-2-b.trouter.teams.microsoft.com
+0.0.0.0 westeurope-prod-3.notifications.teams.microsoft.com
+0.0.0.0 worldaz.tr.teams.microsoft.com
+
+# microsoftonline.com
+0.0.0.0 login.microsoftonline.com
+0.0.0.0 microsoftonline.com
+0.0.0.0 www.microsoftonline.com
+
+# trafficmanager.net
+0.0.0.0 devicemetadataservice.trafficmanager.net
+0.0.0.0 presence.services.sfb.trafficmanager.net
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 trafficmanager.net
+0.0.0.0 www.trafficmanager.net
+
+# live.com
+0.0.0.0 g.live.com
+0.0.0.0 live.com
+0.0.0.0 login.live.com
+0.0.0.0 onedrive.live.com
+0.0.0.0 storage.live.com
+0.0.0.0 www.live.com
+
+# officeapps.live.com
+0.0.0.0 cdn.uci.officeapps.live.com
+0.0.0.0 config.officeapps.live.com
+0.0.0.0 emea.pptservicescast.officeapps.live.com
+0.0.0.0 mrodevicemgr.officeapps.live.com
+0.0.0.0 nexusrules.officeapps.live.com
+0.0.0.0 ocws.officeapps.live.com
+0.0.0.0 odc.officeapps.live.com
+0.0.0.0 ols.officeapps.live.com
+0.0.0.0 roaming.officeapps.live.com
+0.0.0.0 waconafd.officeapps.live.com
+0.0.0.0 waconatm.officeapps.live.com
+
+# virtualearth.net
+0.0.0.0 dev.virtualearth.net
+0.0.0.0 ecn.dev.virtualearth.net
+0.0.0.0 virtualearth.net
+0.0.0.0 www.virtualearth.net
+
+# skype.com
+0.0.0.0 api3.cc.skype.com
+0.0.0.0 api.teams.skype.com
+0.0.0.0 api.userstore.skype.com
+0.0.0.0 config.edge.skype.com
+0.0.0.0 eu-api.asm.skype.com
+0.0.0.0 img.teams.skype.com
+0.0.0.0 skype.com
+0.0.0.0 www.skype.com
+
+# msn.com
+0.0.0.0 api.msn.com
+0.0.0.0 arc.msn.com
+0.0.0.0 assets.msn.com
+0.0.0.0 ent-api.msn.com
+0.0.0.0 msn.com
+0.0.0.0 ntp.msn.com
+0.0.0.0 www.msn.com
+
+# office.com
+0.0.0.0 33225ee601d94b58adee638a9354d687.fp.measure.office.com
+0.0.0.0 3351fd3db7534f07ac41d02a02e84b6c.fp.measure.office.com
+0.0.0.0 3f4b07974539406db164a92fb863b694.fp.measure.office.com
+0.0.0.0 83421a10ac514afc8b605052b0fcf85e.fp.measure.office.com
+0.0.0.0 866be62325854c48aada80a0bfd5fa91.fp.measure.office.com
+0.0.0.0 8ebc92499b9a4bdea15652eae16b8679.fp.measure.office.com
+0.0.0.0 a2409e37d12e4be880092797776a6907.fp.measure.office.com
+0.0.0.0 a43e21fc257b4919bf62fcda6f1b4033.fp.measure.office.com
+0.0.0.0 d5eaa4b0b5ef4e2e9cd0d0dbd43f5acb.fp.measure.office.com
+0.0.0.0 edc0a753366b4557a8ae77b2cb736ee6.fp.measure.office.com
+0.0.0.0 acdc-direct.office.com
+0.0.0.0 api.diagnostics.office.com
+0.0.0.0 atm-fp-direct.office.com
+0.0.0.0 ecs.office.com
+0.0.0.0 loki.delve.office.com
+0.0.0.0 lpcres.delve.office.com
+0.0.0.0 outlook.office.com
+0.0.0.0 office.com
+0.0.0.0 upload.fp.measure.office.com
+0.0.0.0 upload2.fp.measure.office.com
+0.0.0.0 sfeur.loki.delve.office.com
+0.0.0.0 substrate.office.com
+0.0.0.0 webshell.suite.office.com
+0.0.0.0 www.office.com
+
+# office.net
+0.0.0.0 api.office.net
+0.0.0.0 clients.config.office.net
+0.0.0.0 cxcs.cdn.office.net
+0.0.0.0 office.net
+0.0.0.0 statics.teams.cdn.office.net
+0.0.0.0 support.content.office.net
+0.0.0.0 teams.nel.measure.office.net
+0.0.0.0 www.office.net
+
+# office365.com
+0.0.0.0 office365.com
+0.0.0.0 outlook.office365.com
+0.0.0.0 ow1.res.office365.com
+0.0.0.0 r4.res.office365.com
+0.0.0.0 www.office365.com
+
+# outlook.com
+0.0.0.0 dataservice.protection.outlook.com
+0.0.0.0 eur03.dataservice.protection.outlook.com
+0.0.0.0 outlook.com
+0.0.0.0 r3.res.outlook.com
+0.0.0.0 www.outlook.com
+
+# msedge.net
+0.0.0.0 internetbeacon.msedge.net
+0.0.0.0 fp.msedge.net
+0.0.0.0 fpc.msedge.net
+0.0.0.0 msedge.net
+0.0.0.0 spo-ring.msedge.net
+0.0.0.0 www.msedge.net
+
+# e-msedge.net
+0.0.0.0 e-0012.e-msedge.net
+0.0.0.0 e-msedge.net
+0.0.0.0 www.e-msedge.net
+0.0.0.0 www-xboxab-com.e-0012.e-msedge.net
+
+# bing.com
+0.0.0.0 bing.com
+0.0.0.0 business.bing.com
+0.0.0.0 c.bing.com
+0.0.0.0 www.bing.com
+
+# windows.com
+0.0.0.0 client.wns.windows.com
+0.0.0.0 edge.activity.windows.com
+0.0.0.0 skydrive.wns.windows.com
+0.0.0.0 time.windows.com
+0.0.0.0 windows.com
+0.0.0.0 wns.windows.com
+0.0.0.0 www.windows.com
+
+# akamaized.net
+0.0.0.0 img-prod-cms-rt-microsoft-com.akamaized.net
+0.0.0.0 img-s-msn-com.akamaized.net
+
+# msftncsi.com
+0.0.0.0 dns.msftncsi.com
+0.0.0.0 msftncsi.com
+0.0.0.0 www.msftncsi.com
+
+# msftconnecttest.com
+0.0.0.0 ipv6.msftconnecttest.com
+0.0.0.0 msftconnecttest.com
+0.0.0.0 www.msftconnecttest.com
+
+# azureedge.net
+0.0.0.0 acctcdnmsftuswe2.azureedge.net
+0.0.0.0 acctcdnvzeuno.azureedge.net
+0.0.0.0 azureedge.net
+0.0.0.0 cloud-bibo-verizon-clsprd-eun.azureedge.net
+0.0.0.0 lgincdnmsftuswe2.azureedge.net
+0.0.0.0 lgincdnvzeuno.azureedge.net
+0.0.0.0 www.azureedge.net
+
+# msftauth.net
+0.0.0.0 acctcdn.msftauth.net
+0.0.0.0 msftauth.net
+0.0.0.0 www.msftauth.net
+
+# s-microsoft.com
+0.0.0.0 c.s-microsoft.com
+0.0.0.0 s-microsoft.com
+0.0.0.0 www.s-microsoft.com
+
+# sharepoint.com
+0.0.0.0 19918-ipv4.gr.global.aa-rt.sharepoint.com
+0.0.0.0 dbsw.sharepoint.com
+0.0.0.0 dbsw-my.sharepoint.com
+0.0.0.0 sharepoint.com
+0.0.0.0 www.sharepoint.com
+
+# windows.net
+0.0.0.0 login.windows.net
+0.0.0.0 onedriveclubprodbn20029.blob.core.windows.net
+0.0.0.0 windows.net
+0.0.0.0 www.windows.net
+
+# nsatc.net
+0.0.0.0 nsatc.net
+0.0.0.0 www.nsatc.net
+
+# xboxab.com
+0.0.0.0 www.xboxab.com
+0.0.0.0 xboxab.com
+
+# xboxlive.com
+0.0.0.0 www.xboxlive.com
+0.0.0.0 xboxlive.com
+0.0.0.0 userpresence.xboxlive.com
+
+# appcenter.ms
+0.0.0.0 appcenter.ms
+0.0.0.0 in.appcenter.ms
+0.0.0.0 www.appcenter.ms
+
+# azure.com
+0.0.0.0 azure.com
+0.0.0.0 northeuropecns-prod-4-16.northeurope.cloudapp.azure.com
+0.0.0.0 www.azure.com
+
+# cloudapp.net
+0.0.0.0 cloudapp.net
+0.0.0.0 weu1-api-skype.cloudapp.net
+0.0.0.0 weu1-api-teams.cloudapp.net
+0.0.0.0 www.cloudapp.net
+
+# akadns.net
+0.0.0.0 userpresence.xboxlive.com.akadns
+
+# edgesuite.net
+0.0.0.0 officecdn.microsoft.com.edgesuite.net
