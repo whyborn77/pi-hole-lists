@@ -1,0 +1,11 @@
+# Original list https://codeberg.org/wh0ami/pihole-lists/src/branch/main/blacklist-microsoft-wsus.txt
+# Windows Update
+0.0.0.0 tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 au.download.windowsupdate.com
+0.0.0.0 download.windowsupdate.com
+0.0.0.0 slscr.update.microsoft.com
+0.0.0.0 fe3cr.delivery.mp.microsoft.com
+0.0.0.0 fe2cr.update.microsoft.com
+0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+0.0.0.0 fe4.delivery.dsp.mp.microsoft.com.nsatc.net
