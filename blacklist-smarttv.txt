@@ -3,51 +3,43 @@
 # New link for this file: https://raw.githubusercontent.com/hkamran80/blocklists/main/smart-tv
 
 # ------
-
 # This is a blocklist to block Smart TVs sending data home.
 # Please help to collect domains!
 # It could be that the TV does not receive any more updates or other services no longer work. Please report such an incident.
-
 # Panasonic Viera
-
-x2.vindicosuite.com
-occ-0-399-783.1.nflxso.net
-cert-test.sandbox.google.com
-vcs.vdspf.com
-mhc-ajax-us.myhomescreen.tv
-mhc-ajax-eu.myhomescreen.tv
-mhc-sec-us.myhomescreen.tv
-mhc-sec-eu.myhomescreen.tv
-mhc-xpana-us.myhomescreen.tv
-mhc-xpana-eu.myhomescreen.tv
-collect-eu-fy2015.myhomescreen.tv
-collect-eu-fy2017.myhomescreen.tv
-collect-us-fy2016.myhomescreen.tv
-usage-eu-fy2015.myhomescreen.tv
-usage-eu-fy2017.myhomescreen.tv
-usage-eu-fy2019.myhomescreen.tv
-usage-us-fy2015.myhomescreen.tv
-usage-us-fy2017.myhomescreen.tv
-0077777700140002.myhomescreen.tv
-
-
+0.0.0.0 x2.vindicosuite.com
+0.0.0.0 occ-0-399-783.1.nflxso.net
+0.0.0.0 cert-test.sandbox.google.com
+0.0.0.0 vcs.vdspf.com
+0.0.0.0 mhc-ajax-us.myhomescreen.tv
+0.0.0.0 mhc-ajax-eu.myhomescreen.tv
+0.0.0.0 mhc-sec-us.myhomescreen.tv
+0.0.0.0 mhc-sec-eu.myhomescreen.tv
+0.0.0.0 mhc-xpana-us.myhomescreen.tv
+0.0.0.0 mhc-xpana-eu.myhomescreen.tv
+0.0.0.0 collect-eu-fy2015.myhomescreen.tv
+0.0.0.0 collect-eu-fy2017.myhomescreen.tv
+0.0.0.0 collect-us-fy2016.myhomescreen.tv
+0.0.0.0 usage-eu-fy2015.myhomescreen.tv
+0.0.0.0 usage-eu-fy2017.myhomescreen.tv
+0.0.0.0 usage-eu-fy2019.myhomescreen.tv
+0.0.0.0 usage-us-fy2015.myhomescreen.tv
+0.0.0.0 usage-us-fy2017.myhomescreen.tv
+0.0.0.0 0077777700140002.myhomescreen.tv
 # Sony Bravia
-
-ssm1.internet.sony.tv
-bravia.dl.playstation.net
-api-mf1.meta.ndmdhs.com
+0.0.0.0 ssm1.internet.sony.tv
+0.0.0.0 bravia.dl.playstation.net
+0.0.0.0 api-mf1.meta.ndmdhs.com
 # needed for applications, if blocked error "no internet connection"
 #portal.store.sonyentertainmentnetwork.com
 # needed for applications
 #applicast.ga.sony.net
-sonybivstatic-a.akamaihd.net
-b02.black.ndmdhs.com
-call.me.sel.sony.com
-ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
-ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
-flingo.tv
-
-
+0.0.0.0 sonybivstatic-a.akamaihd.net
+0.0.0.0 b02.black.ndmdhs.com
+0.0.0.0 call.me.sel.sony.com
+0.0.0.0 ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
+0.0.0.0 ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
+0.0.0.0 flingo.tv
 # LG
 0.0.0.0 us.rdx2.lgtvsdp.com
 0.0.0.0 us.info.lgsmartad.com
@@ -66,122 +58,101 @@ flingo.tv
 0.0.0.0 snu.lge.com
 0.0.0.0 su-ssl.lge.com
 0.0.0.0 de.lgtvsdp.com
-
 # Philips
 0.0.0.0 deviceportal.nettvservices.com
 0.0.0.0 epg.corio.com
 0.0.0.0 legacyportal.nettvservices.com
 0.0.0.0 nettv.corio.com
-
-
 # Samsung
-device-metrics-us.amazon.com
-samsungacr.com
-samsungcloudsolution.com
-samsungcloudsolution.net
-pavv.co.kr
-samsungotn.net
-samsungrm.net
-samsungelectronics.com
-samsungadhub.com
-samsungosp.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 samsungacr.com
+0.0.0.0 samsungcloudsolution.com
+0.0.0.0 samsungcloudsolution.net
+0.0.0.0 pavv.co.kr
+0.0.0.0 samsungotn.net
+0.0.0.0 samsungrm.net
+0.0.0.0 samsungelectronics.com
+0.0.0.0 samsungadhub.com
+0.0.0.0 samsungosp.com
 #samsungqbe.com
-Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
-abtauthprd.samsungcloudsolution.com
-acr0.samsungcloudsolution.com
-ad.samsungadhub.com
-amauthprd.samsungcloudsolution.com
-api-hub.samsungyosemite.com
-auth.samsungosp.com
-az43064.vo.msecnd.net
-cdn.samsungcloudsolution.com
-cdn.samsungcloudsolution.net
-d179kwmlpc4o47.cloudfront.ne
-d179kwmlpc4o47.cloudfront.net
-d1jwpcr0q4pcq0.cloudfront.net
-d1oxlq5h9kq8q5.cloudfront.net
-d2tnx644ijgq6i.cloudfront.net
-d3mjsomixevyw7.cloudfront.net
-dev-multiscreen.samsung.com
-fkp.samsungcloudsolution.com
-fkp.samsungcloudsolution.net
-game.internetat.tv
-gld.samsungosp.com
+0.0.0.0 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+0.0.0.0 abtauthprd.samsungcloudsolution.com
+0.0.0.0 acr0.samsungcloudsolution.com
+0.0.0.0 ad.samsungadhub.com
+0.0.0.0 amauthprd.samsungcloudsolution.com
+0.0.0.0 api-hub.samsungyosemite.com
+0.0.0.0 auth.samsungosp.com
+0.0.0.0 az43064.vo.msecnd.net
+0.0.0.0 cdn.samsungcloudsolution.com
+0.0.0.0 cdn.samsungcloudsolution.net
+0.0.0.0 d179kwmlpc4o47.cloudfront.ne
+0.0.0.0 d179kwmlpc4o47.cloudfront.net
+0.0.0.0 d1jwpcr0q4pcq0.cloudfront.net
+0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
+0.0.0.0 d2tnx644ijgq6i.cloudfront.net
+0.0.0.0 d3mjsomixevyw7.cloudfront.net
+0.0.0.0 dev-multiscreen.samsung.com
+0.0.0.0 fkp.samsungcloudsolution.com
+0.0.0.0 fkp.samsungcloudsolution.net
+0.0.0.0 game.internetat.tv
+0.0.0.0 gld.samsungosp.com
 #gpm.samsungqbe.com
-i-stream.pl
-infolink.pavv.co.kr
-lcprd1.samsungcloudsolution.net
-log-1.samsungacr.com
-log-2.samsungacr.com
-log-3.samsungacr.com
-log.internetat.tv
-multiscreen.samsung.com
-notice.samsungcloudsolution.com
-noticecdn.samsungcloudsolution.com
-noticefile.samsungcloudsolution.com
-ns11.whois.co.kr
-oempprd.samsungcloudsolution.com
-oempprd.samsungcloudsolution.net
-openapi.samsung.com
+0.0.0.0 i-stream.pl
+0.0.0.0 infolink.pavv.co.kr
+0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 log-1.samsungacr.com
+0.0.0.0 log-2.samsungacr.com
+0.0.0.0 log-3.samsungacr.com
+0.0.0.0 log.internetat.tv
+0.0.0.0 multiscreen.samsung.com
+0.0.0.0 notice.samsungcloudsolution.com
+0.0.0.0 noticecdn.samsungcloudsolution.com
+0.0.0.0 noticefile.samsungcloudsolution.com
+0.0.0.0 ns11.whois.co.kr
+0.0.0.0 oempprd.samsungcloudsolution.com
+0.0.0.0 oempprd.samsungcloudsolution.net
+0.0.0.0 openapi.samsung.com
 #osb.samsungqbe.com
-otnprd10.samsungcloudsolution.net
-otnprd11.samsungcloudsolution.net
-otnprd8.samsungcloudsolution.net
-otnprd9.samsungcloudsolution.net
-pipeaota.com
-premium-videos.telly.com
-prov.samsungcloudsolution.com
-rd.samsungadhub.com
-sas.samsungcloudsolution.com
-sca.samsung.com
-sso.internetat.tv
-syncplusconfig.s3.amazonaws.com
-targeted-config-test.samsungacr.com
-test.samsungrm.net
-time.samsungcloudsolution.com
-upu.samsungelectronics.com
-us-api.samsungyosemite.com
-vd.emp.prd.s3.amazonaws.com
-vdterms.samsungcloudsolution.com
-www.samsungotn.net
-www.samsungrm.net
-xpu.samsungelectronics.com
-acr0.samsungcloudsolution.com
-d1oxlq5h9kq8q5.cloudfront.net
-d179kwmlpc4o47.cloudfront.net
-www.samsungrm.net
-www.samsungotn.net
-game.internetat.tv
-ns11.whois.co.kr
-infolink.pavv.co.k
-rwww.samsungotn.net
-premium-videos.telly.com
-targeted-config-test.samsungacr.com
-syncplusconfig.s3.amazonaws.com
-cdn.samsungcloudsolution.com
-oempprd.samsungcloudsolution.com
-time.samsungcloudsolution.com
-lcprd1.samsungcloudsolution.net
-
-ads.samsungads.com
-configprd.samsungcloudsolution.net
-log-ingestion.samsungacr.com
-ypu.samsungelectronics.com
+0.0.0.0 otnprd10.samsungcloudsolution.net
+0.0.0.0 otnprd11.samsungcloudsolution.net
+0.0.0.0 otnprd8.samsungcloudsolution.net
+0.0.0.0 otnprd9.samsungcloudsolution.net
+0.0.0.0 pipeaota.com
+0.0.0.0 premium-videos.telly.com
+0.0.0.0 prov.samsungcloudsolution.com
+0.0.0.0 rd.samsungadhub.com
+0.0.0.0 sas.samsungcloudsolution.com
+0.0.0.0 sca.samsung.com
+0.0.0.0 sso.internetat.tv
+0.0.0.0 syncplusconfig.s3.amazonaws.com
+0.0.0.0 targeted-config-test.samsungacr.com
+0.0.0.0 test.samsungrm.net
+0.0.0.0 time.samsungcloudsolution.com
+0.0.0.0 upu.samsungelectronics.com
+0.0.0.0 us-api.samsungyosemite.com
+0.0.0.0 vd.emp.prd.s3.amazonaws.com
+0.0.0.0 vdterms.samsungcloudsolution.com
+0.0.0.0 www.samsungotn.net
+0.0.0.0 www.samsungrm.net
+0.0.0.0 xpu.samsungelectronics.com
+0.0.0.0 infolink.pavv.co.k
+0.0.0.0 rwww.samsungotn.net
+0.0.0.0 ads.samsungads.com
+0.0.0.0 configprd.samsungcloudsolution.net
+0.0.0.0 log-ingestion.samsungacr.com
+0.0.0.0 ypu.samsungelectronics.com
 #osb-apps.samsungqbe.com
 #osb-krsvc.samsungqbe.com
-musicid.samsungcloudsolution.com
-cpu.samsungelectronics.com
-
-config.samsungads.com
-log-config.samsungacr.com
-ads.samsung.com
-events.samsungads.com
-
+0.0.0.0 musicid.samsungcloudsolution.com
+0.0.0.0 cpu.samsungelectronics.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 log-config.samsungacr.com
+0.0.0.0 ads.samsung.com
+0.0.0.0 events.samsungads.com
 # Other useless connections from Smart-TV
 get.geo.opera.com
 xml.opera.com
 itv.ard.de
-cert-test.sandbox.google.com
 googleads.g.doubleclick.net
 hbbtv.redbutton.de
 hbbtv.zdf.de
@@ -191,8 +162,6 @@ apicache.vudu.com
 tv.deezer.com
 cdns-content.dzcdn.net
 nbc-jite.nbcuni.com
-
-
 # Netflix
 # secure, api-global, ichnaea, and appboot break Netflix
 #secure.netflix.com                   
@@ -201,43 +170,36 @@ nbc-jite.nbcuni.com
 customerevents.netflix.com
 #appboot.netflix.com
 nrdp.nccp.netflix.com
-
 # Spotify
 api-tv.spotify.com
-
 # Hulu
 api.distribution.hulu.com
-
 # Sharp Smart TV using Opera OS (thanks to sml156)
 # These may be needed for software/firmware update's, not sure if it's one or both but the first one try's thousands of times a day to connect.
 api.us.hismarttv.com
 api.euro.hismarttv.com
-
 # Fire TV
 arcus-uswest.amazon.com
 avs-alexa-19-eu.amazon.com
-#ktpx-eu.amazon.com
+ktpx-eu.amazon.com
 dcape-na.amazon.com
-#fireoscaptiveportal.com
+fireoscaptiveportal.com
 aviary.amazon.de
 api.eu.amazonalexa.com
 mas-ext-eu.amazon.com
 mads-eu.amazon.com
 dp-gw-na.amazon.com
 ftv-smtv.ntp-fireos.com
-#dp-discovery-na-ext.amazon.com
+dp-discovery-na-ext.amazon.com
 aviary.amazon.com
 o2r2hew432.execute-api.us-east-1.amazonaws.com
 andr-25-aftkmst12-641002610.api.amazonvideo.com
 prod.amazoncrl.com
-arcus-uswest.amazon.com
-
 # Xioami Mi TV
 mitv.tracking.intl.miui.com
 tracking.intl.miui.com
 data.mistat.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
-
 # Roku
 static.doubleclick.net
 track.sr.roku.com
@@ -246,3 +208,200 @@ bif.sr.roku.com
 traces.sr.roku.com
 #cloudservices.roku.com
 amarillo.sb.roku.com
+# Title: Smart-TV Blocklist for Pi-hole
+# Version: 12March2021v3
+# Description: This is a blocklist to block smart-TVs sending metadata back home, sometimes with the added benefit of blocking interface ads for apps and movie services.
+# Please help with collecting domains!
+# It could occur that the TV fails to receive new updates, or that other apps or services no longer work. Please report such an incident.
+# Make sure to also use the extra RegEx list at https://perflyst.github.io/PiHoleBlocklist/regex.list, which helps remove regional LG ad domains among other things.
+# Panasonic Viera & panny tv
+collect.myhomescreen.tv
+usage.myhomescreen.tv
+collect-us-fy2014.myhomescreen.tv
+collect-us-fy2015.myhomescreen.tv
+collect-us-fy2017.myhomescreen.tv
+collect-us-fy2018.myhomescreen.tv
+collect-us-fy2019.myhomescreen.tv
+collect-us-fy2020.myhomescreen.tv
+collect-eu-fy2014.myhomescreen.tv
+collect-eu-fy2016.myhomescreen.tv
+collect-eu-fy2018.myhomescreen.tv
+collect-eu-fy2019.myhomescreen.tv
+collect-eu-fy2020.myhomescreen.tv
+usage-eu-fy2014.myhomescreen.tv
+usage-eu-fy2016.myhomescreen.tv
+usage-eu-fy2018.myhomescreen.tv
+usage-eu-fy2020.myhomescreen.tv
+usage-us-fy2014.myhomescreen.tv
+usage-us-fy2016.myhomescreen.tv
+usage-us-fy2018.myhomescreen.tv
+usage-us-fy2019.myhomescreen.tv
+usage-us-fy2020.myhomescreen.tv
+#mhc-ajax-eu.myhomescreen.tv # internet connection test
+#mhc-ajax-eu-s2.myhomescreen.tv # internet connection test
+#mhc-ajax-us.myhomescreen.tv # internet connection test
+#mhc-eu.myhomescreen.tv # required for internet connectivity
+#mhc-us.myhomescreen.tv # required for internet connectivity
+#mhc-xpana-eu.myhomescreen.tv # required to start apps
+#mhc-xpana-eu-s2.myhomescreen.tv # required to start apps
+#mhc-xpana-us.myhomescreen.tv # required to start apps
+#vcs.vdspf.com  //  if blocked, notified of new firmware but unable to download/install
+reg.biv.sony.tv
+service.biv.sony.tv
+ssm2.internet.sony.tv
+ssm3.internet.sony.tv
+# update.biv.sony.tv # required for updates
+facemap.foldlife.net
+bdcore-apr-lb.bda.ndmdhs.com
+tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
+api.cid.samba.tv
+#platform.cid.samba.tv #See Toshiba
+preferences.cid.samba.tv
+ad.lgappstv.com
+ibis.lgappstv.com
+lgad.cjpowercast.com.edgesuite.net
+# ngfts.lge.com # blocks thumbnails from loading in the LG Content Store
+smartclip.com
+smartclip.net
+smartshare.lgtvsdp.com
+us.ad.lgsmartad.com
+us.ibs.lgappstv.com
+us.info.lgsmartad.com
+us.lgtvsdp.com
+us.rdx2.lgtvsdp.com
+yumenetworks.com
+aic-ngfts.lge.com
+#deviceportal.nettvservices.com # needed for apps
+#epg.corio.com # needed for apps
+legacyportal.nettvservices.com
+nettv.corio.com
+#www.ecdinterface.philips.com # Philips Hue Bridge
+ad.nettvservices.com
+connecttv.pelmorex.com # weather app tracking
+d1oxlq5h9kq8q5.cloudfront.net # app icons in samsung app store
+d37ju0xanoz6gh.cloudfront.net
+gpm.samsungqbe.com
+log-ingestion-eu.samsungacr.com
+prderrordumphsm.samsungcloudsolution.com
+osb-apps.samsungqbe.com
+osb-krsvc.samsungqbe.com
+osb-eusvc.samsungqbe.com
+osb.samsungqbe.com
+samsungqbe.com
+sso.internetat.tv # account login
+apu.samsungelectronics.com
+bpu.samsungelectronics.com
+dpu.samsungelectronics.com
+kpu.samsungelectronics.com
+zpu.samsungelectronics.com
+vd.contents.prod.eu.s3.amazonaws.com
+data.arqiva.tv
+cloud.arqiva.tv
+ads.aimitv.com
+samsungads.com
+gamespromotion.samsungcloudsolution.com
+#auth.samsungosp.com # if blocked, samsung accounts will fail to authenticate
+#cdn.samsungcloudsolution.com # System update check on Samsung UE40F5500
+#infolink.pavv.co.kr # Needed for appstore and login on Samsung UE40F5500
+#lcprd1.samsungcloudsolution.net # ping test, no beaconing
+#otnprd10.samsungcloudsolution.net # required for software update
+#otnprd11.samsungcloudsolution.net # required for software update
+#otnprd8.samsungcloudsolution.net # required for software update
+#otnprd9.samsungcloudsolution.net # required for software update
+#samsungosp.com
+#samsungotn.net # system update check on Samsung UE65RU7455
+#time.samsungcloudsolution.com # if blocked, services like Plex, YouTube and Amazon Video not working anymore on some Samsung TV's
+#www.samsungotn.net # required for software update
+#osb-ussvc.samsungqbe.com # required for TV Plus
+#otn.samsungcloudcdn.com # Prevents updates on UE49KS7000 and QE55Q9FNA; https://github.com/Perflyst/PiHoleBlocklist/issues/60
+#ns11.whois.co.kr # Prevents Series 7 TVs from opening YouTube
+scribe.logs.roku.com
+midland.logs.roku.com
+austin.logs.roku.com
+cooper.logs.roku.com
+liberty.logs.roku.com
+display.ravm.tv
+ravm.tv
+# Vizio
+# Required for Vizio smart tv features
+#api.vizio.com
+#images.vizio.com
+#announcements.vizio.com # No reason to block this
+# HBBTV
+cdn.hbbtv.smartclip.net
+hbbtv-1.eurosport.com
+hbbtv-extern-fe01.sim-technik.de
+hbbtv-track.redbutton.de
+hbbtv.kabeleins.de
+#hbbtv.prosieben.de # Blocks ProSieben apps from starting.
+hbbtv.qvc.de
+#hbbtv.redbutton.de # Blocks ZDF & ProSieben apps from starting.
+hbbtv.rtl2.de
+hbbtv.sat1.de
+hbbtv.sixx.de
+#hbbtv.zdf.de # Blocks ZDF apps from starting.
+hbbtv01p.anixe.net
+hbbtvapp.sonnenklar.tv
+scheduler.hbbtv.smartclip.net
+stats.hbbtv.smartclip.net
+hbbtv.superrtl.de
+p-hbbtv.superrtl.de
+hbbtv.3sat.de
+2mdn.net
+ad.71i.de
+adv.ettoday.net
+advertising.com
+api.nfl.com
+# apicache.vudu.com # needed for Vudu's app, see issue22
+cdn.smartclip.net
+database01p.anixe.net
+de.ioam.de
+#drscdn.500px.org # blocks 500px on desktop
+# geo.opera.com # blocks opera update
+# itv.ard.de # ARD media lib - HBBTV 
+redbutton-adproxy-lb-prod.redbutton.de
+redbutton-lb-prod.redbutton.de
+redbutton.sim-technik.de
+script.ioam.de
+start.digitaltext.rtl.de
+stats-irl.sxp.smartclip.net
+trvdp.com
+#tv.deezer.com # Breaks Deezer's smart-TV apps.
+# secure, api-global, and appboot break Netflix
+# Netflix playback fails on Humax DTR-T2100 (YouView) STB
+#nrdp.nccp.netflix.com
+ichnaea.netflix.com
+nrdp.prod.ftl.netflix.com
+#api-tv.spotify.com # required for TV and PS4 spotify app
+# time-a.timefreq.bldrdoc.gov          # probably not a good idea to block this one
+# api.accuweather.com                  # probably not a good idea to block this one
+# Hisense Smart TV
+api-gps-em.hismarttv.com
+auth-em.hismarttv.com
+msg-em.hismarttv.com
+api-launcher-em.hismarttv.com
+auth-launcher-em.hismarttv.com
+api-gps-na.hismarttv.com
+auth-na.hismarttv.com
+msg-na.hismarttv.com
+api-launcher-na.hismarttv.com
+auth-launcher-na.hismarttv.com
+unified-ter-na.hismarttv.com
+# These may be needed for software/firmware updates, not sure if it's one or both but the first one tries thousands of times a day to connect.
+# SiliconDust HDHomeRun
+#tuner-api.hdhomerun.com # required for firmware update
+#location-api.hdhomerun.com # required for firmware update
+# Foxtel Australia cable/satellite set-top box
+_xmpp-client._tcp.managed.xmpp.foxtel.com.au
+managed.xmpp.foxtel.com.au
+foxtel-prod-events.digitalsmiths.net
+e2.resources.foxtel.com.au
+a1.resources.foxtel.com.au
+# Yamaha AV receivers
+#avpro.global.yamaha.com # Blocks system updates on RX-V685
+# Toshiba
+events.cid.samba.tv
+platform.cid.samba.tv
+file2fxm.azureedge.net
+7345023508.fxmconnect.com
+7345023508.fxm9485766783.com
