@@ -112,3 +112,8 @@ applvn.com
 leanplum.com
 www.leanplum.com
 api.leanplum.com
+
+#MailChimp - Advertising
+mandrillapp.com 
+
+manalyticshub.com
