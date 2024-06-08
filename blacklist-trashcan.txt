@@ -310,3 +310,15 @@
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 gslb.shalltry.com
 0.0.0.0 tracker.openwebtorrent.com
+
+#https://brainbaking.com/post/2022/08/six-months-with-pi-hole/
+dit.whatsapp.net
+www.google-analytics.com
+gabe.hit.gemius.pl
+imasdk.googleapis.com
+advertising-cdn.dpgmedia.cloud
+www.googletagmanager.com
+sp.dpgmedia.net
+incoming.telemetry.mozilla.org
+widgets.pexi.nl
+securepubads.g.doubleclick.net
