@@ -299,3 +299,14 @@
 0.0.0.0 creatives.goaffpro.com
 0.0.0.0 kopp-medien.websale.net
 0.0.0.0 motd.ubuntu.com
+
+#from my pi-hole Top Blocked Domains
+0.0.0.0 chat-gpt.org
+0.0.0.0 tracker.istole.it
+0.0.0.0 s3.amazonaws.com
+0.0.0.0 manalyticshub.com
+0.0.0.0 app-measurement.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 gslb.shalltry.com
+0.0.0.0 tracker.openwebtorrent.com
