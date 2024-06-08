@@ -115,5 +115,3 @@ api.leanplum.com
 
 #MailChimp - Advertising
 mandrillapp.com 
-
-manalyticshub.com
