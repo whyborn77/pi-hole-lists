@@ -312,13 +312,25 @@
 0.0.0.0 tracker.openwebtorrent.com
 
 #https://brainbaking.com/post/2022/08/six-months-with-pi-hole/
-dit.whatsapp.net
-www.google-analytics.com
-gabe.hit.gemius.pl
-imasdk.googleapis.com
-advertising-cdn.dpgmedia.cloud
-www.googletagmanager.com
-sp.dpgmedia.net
-incoming.telemetry.mozilla.org
-widgets.pexi.nl
-securepubads.g.doubleclick.net
+0.0.0.0 dit.whatsapp.net
+0.0.0.0 www.google-analytics.com
+0.0.0.0 gabe.hit.gemius.pl
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 advertising-cdn.dpgmedia.cloud
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 sp.dpgmedia.net
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 widgets.pexi.nl
+0.0.0.0 securepubads.g.doubleclick.net
+
+#ccleaner & avast 
+0.0.0.0 alpha-crap.ff.avast.com
+0.0.0.0 analytics.ff.avast.com
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 license-api.ccleaner.com
+0.0.0.0 license.piriform.com
+0.0.0.0 ncc.avast.com
+0.0.0.0 ncc.avast.com.edgesuite.net
+0.0.0.0 shepherd.ff.avast.com
+0.0.0.0 www.ccleaner.com
