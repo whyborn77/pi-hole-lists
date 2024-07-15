@@ -310,6 +310,14 @@
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 gslb.shalltry.com
 0.0.0.0 tracker.openwebtorrent.com
+0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 googleads.g.doubleclick.net	
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 mobile.yandexadexchange.net	
+0.0.0.0 startup.mobile.webvisor.com
+0.0.0.0 app.adjust.com
+0.0.0.0 app.adjust.world
 
 #https://brainbaking.com/post/2022/08/six-months-with-pi-hole/
 0.0.0.0 dit.whatsapp.net
