@@ -346,3 +346,4 @@
 # wtf?
 0.0.0.0 code.1cpbac.ru
 0.0.0.0 1cpbac.ru
+0.0.0.0 uchet-jkh.ru
