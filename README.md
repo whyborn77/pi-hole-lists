@@ -1,4 +1,4 @@
-так же подходит для mikrotik routeros 7
+так же подходит для mikrotik routeros 7 dns adlist
 
 `
 /ip dns adlist
