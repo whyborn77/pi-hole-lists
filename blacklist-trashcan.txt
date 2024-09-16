@@ -349,4 +349,4 @@
 0.0.0.0 uchet-jkh.ru
 
 #fake
-whitescreen.online
+0.0.0.0 whitescreen.online
