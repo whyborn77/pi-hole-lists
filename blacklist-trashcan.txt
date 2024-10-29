@@ -3,8 +3,8 @@
 0.0.0.0 google-analytics.de
 0.0.0.0 connectivitycheck.android.com
 0.0.0.0 dns.google
-0.0.0.0 fonts.gstatic.com
-0.0.0.0 fonts.googleapis.com
+#0.0.0.0 fonts.gstatic.com
+#0.0.0.0 fonts.googleapis.com
 0.0.0.0 developers.google.cn
 0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 android-safebrowsing.google.com
