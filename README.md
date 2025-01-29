@@ -4,9 +4,10 @@
 /ip dns adlist add ssl-verify=no url="https://raw.githubusercontent.com/whyborn77/pi-hole-lists/main/android-trash.txt"  
 /ip dns adlist add ssl-verify=no url="https://raw.githubusercontent.com/whyborn77/pi-hole-lists/main/blacklist-microsoft-wsus.txt"  
 /ip dns adlist add ssl-verify=no url="https://raw.githubusercontent.com/whyborn77/pi-hole-lists/main/blacklist-smarttv.txt"  
-/ip dns adlist add ssl-verify=no url="https://raw.githubusercontent.com/whyborn77/pi-hole-lists/main/blacklist-trashcan.txt"
+/ip dns adlist add ssl-verify=no url="https://raw.githubusercontent.com/whyborn77/pi-hole-lists/main/blacklist-trashcan.txt"  
 /ip dns adlist add ssl-verify=no url="https://raw.githubusercontent.com/whyborn77/pi-hole-lists/main/adobe-gtfo.txt"
 
+<br>
 /ip dns adlist
 add ssl-verify=no url="https://raw.githubusercontent.com/whyborn77/pi-hole-lis\
     ts/main/blacklist-microsoft-trash.txt"
