@@ -402,7 +402,6 @@
 0.0.0.0 e7341.g.akamaiedge.net
 0.0.0.0 e7502.ce.akamaiedge.net
 0.0.0.0 e8218.ce.akamaiedge.net
-0.0.0.0 fe2.update.microsoft.com.akadns.net
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 feedback.windows.com
@@ -412,11 +411,8 @@
 0.0.0.0 msnbot-65-55-108-23.search.msn.com
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 onesettings-db5.metron.live.nsatc.net
-0.0.0.0 sls.update.microsoft.com.akadns.net
-0.0.0.0 sls.update.microsoft.com.nsatc.net
 0.0.0.0 static.2mdn.net
 0.0.0.0 statsfe1.ws.microsoft.com
-0.0.0.0 statsfe2.update.microsoft.com.akadns.net
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
