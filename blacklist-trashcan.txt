@@ -1,3 +1,21 @@
+# My Pi-hole Top Blocked
+0.0.0.0 chat-gpt.org
+0.0.0.0 tracker.istole.it
+0.0.0.0 s3.amazonaws.com
+0.0.0.0 manalyticshub.com
+0.0.0.0 app-measurement.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 gslb.shalltry.com
+0.0.0.0 tracker.openwebtorrent.com
+0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 mobile.yandexadexchange.net
+0.0.0.0 startup.mobile.webvisor.com
+0.0.0.0 app.adjust.com
+0.0.0.0 app.adjust.world
 
 # Google
 0.0.0.0 google-analytics.de
@@ -55,7 +73,6 @@
 0.0.0.0 sspapi-prd.samsungrs.com
 0.0.0.0 sdk.pushmessage.samsung.com
 0.0.0.0 dls.di.atlas.samsung.com
-0.0.0.0 capi.samsungcloud.com
 0.0.0.0 vas.samsungapps.com
 
 # Mozilla
@@ -177,7 +194,6 @@
 0.0.0.0 appdl-1-drcn.dbankcdn.com.c.cdnhwc1.com
 0.0.0.0 cs02-pps-drcn.dbankcdn.com.c.cdnhwc1.com
 0.0.0.0 metrics-dre.dt.dbankcloud.cn
-0.0.0.0 events-dre.op.hicloud.com.edgekey.net
 0.0.0.0 h5hosting.dbankcdn.com
 0.0.0.0 pushtrs7.push.dbankcloud.cn
 
@@ -223,8 +239,6 @@
 0.0.0.0 cdn12.appwork.org
 
 # TikTok
-# 0.0.0.0 tiktok.com
-# 0.0.0.0 www.tiktok.com
 0.0.0.0 m.tiktok.com
 0.0.0.0 vm.tiktok.com
 0.0.0.0 v39-eu.tiktokcdn.com
@@ -244,7 +258,7 @@
 # Mediatek
 0.0.0.0 mepodownload.mediatek.com
 
-# Other stuff (without direct context)
+# Other domains
 0.0.0.0 analytics.ovh.com
 0.0.0.0 analytics.srvnw.com
 0.0.0.0 bkpn.adj.st
@@ -267,7 +281,6 @@
 0.0.0.0 pix.hyj.mobi
 0.0.0.0 www.windowssearch-exp.com
 0.0.0.0 whatismyip.com
-0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 provithor.com
 0.0.0.0 robby.prodara.de
 0.0.0.0 static.parastorage.com
@@ -300,26 +313,7 @@
 0.0.0.0 kopp-medien.websale.net
 0.0.0.0 motd.ubuntu.com
 
-#from my pi-hole Top Blocked Domains
-0.0.0.0 chat-gpt.org
-0.0.0.0 tracker.istole.it
-0.0.0.0 s3.amazonaws.com
-0.0.0.0 manalyticshub.com
-0.0.0.0 app-measurement.com
-0.0.0.0 trk.pinterest.com
-0.0.0.0 report.appmetrica.yandex.net
-0.0.0.0 gslb.shalltry.com
-0.0.0.0 tracker.openwebtorrent.com
-0.0.0.0 startup.mobile.yandex.net
-0.0.0.0 googleads.g.doubleclick.net	
-0.0.0.0 crashlyticsreports-pa.googleapis.com
-0.0.0.0 api.ad.intl.xiaomi.com
-0.0.0.0 mobile.yandexadexchange.net	
-0.0.0.0 startup.mobile.webvisor.com
-0.0.0.0 app.adjust.com
-0.0.0.0 app.adjust.world
-
-#https://brainbaking.com/post/2022/08/six-months-with-pi-hole/
+# Brainbaking.com
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 www.google-analytics.com
 0.0.0.0 gabe.hit.gemius.pl
@@ -331,19 +325,18 @@
 0.0.0.0 widgets.pexi.nl
 0.0.0.0 securepubads.g.doubleclick.net
 
-#ccleaner & avast 
+# CCleaner & Avast
 0.0.0.0 alpha-crap.ff.avast.com
-0.0.0.0 analytics.ff.avast.com
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ipm-provider.ff.avast.com
-0.0.0.0 license-api.ccleaner.com
 0.0.0.0 license.piriform.com
-0.0.0.0 ncc.avast.com
 0.0.0.0 ncc.avast.com.edgesuite.net
 0.0.0.0 shepherd.ff.avast.com
 0.0.0.0 www.ccleaner.com
 
-# wtf?
+# Fake domains
+0.0.0.0 whitescreen.online
+0.0.0.0 www.whitescreen.online
 0.0.0.0 code.1cpbac.ru
 0.0.0.0 1cpbac.ru
 0.0.0.0 uchet-jkh.ru
@@ -351,7 +344,3 @@
 0.0.0.0 rbp63841.ru
 0.0.0.0 my.rbpsh.ru
 0.0.0.0 im.therecepts.com
-
-#fake
-0.0.0.0 whitescreen.online
-0.0.0.0 www.whitescreen.online
