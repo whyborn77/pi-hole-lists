@@ -1,22 +1,3 @@
-# My Pi-hole Top Blocked
-0.0.0.0 chat-gpt.org
-0.0.0.0 tracker.istole.it
-0.0.0.0 s3.amazonaws.com
-0.0.0.0 manalyticshub.com
-0.0.0.0 app-measurement.com
-0.0.0.0 trk.pinterest.com
-0.0.0.0 report.appmetrica.yandex.net
-0.0.0.0 gslb.shalltry.com
-0.0.0.0 tracker.openwebtorrent.com
-0.0.0.0 startup.mobile.yandex.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 crashlyticsreports-pa.googleapis.com
-0.0.0.0 api.ad.intl.xiaomi.com
-0.0.0.0 mobile.yandexadexchange.net
-0.0.0.0 startup.mobile.webvisor.com
-0.0.0.0 app.adjust.com
-0.0.0.0 app.adjust.world
-
 # Google
 0.0.0.0 google-analytics.de
 0.0.0.0 connectivitycheck.android.com
@@ -124,6 +105,7 @@
 
 # Strangeloopgames
 0.0.0.0 bugreports.eco.strangeloopgames.com
+0.0.0.0 s.relay.strangeloopgames.com
 0.0.0.0 us.relay.strangeloopgames.com
 
 # Xiaomi / Huawei
@@ -167,7 +149,6 @@
 0.0.0.0 appdl-1-dre.dbankcdn.com
 0.0.0.0 appdl-3-drcn.dbankcdn.com
 0.0.0.0 appdl-2-dre.dbankcdn.com
-0.0.0.0 appdl-3-drcn.dbankcdn.com
 0.0.0.0 appdl-3-dre.dbankcdn.com
 0.0.0.0 appdl-4-drcn.dbankcdn.com
 0.0.0.0 appdl-4-dre.dbankcdn.com
@@ -312,6 +293,25 @@
 0.0.0.0 creatives.goaffpro.com
 0.0.0.0 kopp-medien.websale.net
 0.0.0.0 motd.ubuntu.com
+
+# Pi-hole Top Blocked
+0.0.0.0 chat-gpt.org
+0.0.0.0 tracker.istole.it
+0.0.0.0 s3.amazonaws.com
+0.0.0.0 manalyticshub.com
+0.0.0.0 app-measurement.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 gslb.shalltry.com
+0.0.0.0 tracker.openwebtorrent.com
+0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 mobile.yandexadexchange.net
+0.0.0.0 startup.mobile.webvisor.com
+0.0.0.0 app.adjust.com
+0.0.0.0 app.adjust.world
 
 # Brainbaking.com
 0.0.0.0 dit.whatsapp.net
