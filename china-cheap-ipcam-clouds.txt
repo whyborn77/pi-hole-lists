@@ -1,7 +1,7 @@
 0.0.0.0 arcsoft.com
 0.0.0.0 xmpp.icloseli.cn
 0.0.0.0 relaycn.arcsoftcloud.com
-0.0.0.0 update.icloseli.cn
+#0.0.0.0 update.icloseli.cn
 0.0.0.0 esd.icloseli.cn
 0.0.0.0 upns.icloseli.cn
 0.0.0.0 argus.icloseli.cn
@@ -10,7 +10,7 @@
 0.0.0.0 api.icloseli.cn
 0.0.0.0 xmpp.icloseli.com
 0.0.0.0 relayus-w.arcsoftcloud.com
-0.0.0.0 update.icloseli.com
+#0.0.0.0 update.icloseli.com
 0.0.0.0 esd.icloseli.com
 0.0.0.0 upns.icloseli.com
 0.0.0.0 xmpp.icloseli.com
