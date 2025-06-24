@@ -14,3 +14,10 @@
 0.0.0.0 sls.update.microsoft.com.akadns.net
 0.0.0.0 sls.update.microsoft.com.nsatc.net
 0.0.0.0 statsfe2.update.microsoft.com.akadns.net
+
+0.0.0.0 ntservicepack.microsoft.com
+0.0.0.0 windowsupdate.microsoft.com
+0.0.0.0 dl.delivery.mp.microsoft.com
+0.0.0.0 update.microsoft.com
+0.0.0.0 windowsupdate.com
+0.0.0.0 download.microsoft.com
