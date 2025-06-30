@@ -324,6 +324,8 @@
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 widgets.pexi.nl
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 api.lemonbucks.com
+0.0.0.0 lemonbucks.com
 
 # CCleaner & Avast
 0.0.0.0 alpha-crap.ff.avast.com
