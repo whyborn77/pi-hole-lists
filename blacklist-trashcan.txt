@@ -442,6 +442,9 @@
 0.0.0.0 infonet.sbs  
 0.0.0.0 datazen.sbs  
 0.0.0.0 datavibe.sbs  
-0.0.0.0 infosync.top  
-0.0.0.0 infograph.top  
-0.0.0.0 zorpleflux.top  
+0.0.0.0 infosync.top
+0.0.0.0 infograph.top
+0.0.0.0 zorpleflux.top
+
+#zaebal 
+0.0.0.0 scan.cypex.ai
