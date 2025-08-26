@@ -448,3 +448,4 @@
 
 #zaebal 
 0.0.0.0 scan.cypex.ai
+0.0.0.0 cypex.ai
